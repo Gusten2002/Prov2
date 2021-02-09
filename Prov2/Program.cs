@@ -6,7 +6,7 @@ namespace Prov2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Låter spelaren välja vilken klass hen vill vara och skriver ut ststsen, men all kod ska vara i de tidigare klasserna.
         }
     }
 }
